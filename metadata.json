@@ -1,0 +1,5 @@
+{
+  "name": "文字轉換語音",
+  "description": "智慧文字轉語音應用程式，使用 Gemini AI 自動偵測語言並生成栩栩如生的語音，支援 HTML 匯出功能（單次限制 1500 字）。",
+  "requestFramePermissions": []
+}
